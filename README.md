@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m PHP engineer from Ho Chi Minh City, Vietnam 😎
+I’m a PHP engineer from Ho Chi Minh City, Vietnam 😎
 
 - ⚡ I’m the founder of [Moveek](https://moveek.com), the popular movies ticketing & community in Vietnam
 - 🔭 I’m currently working for [MessageMedia](https://messagemedia.com) as a Senior PHP Engineer
